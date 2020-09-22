@@ -1,0 +1,40 @@
+body {
+    background-color:  #00e7e0;
+    font-family: "Trebuchet MS", Helvetica, sans-serif; 
+}
+
+a {
+    color: black;
+}
+
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightskyblue;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 10%;
+    cursor: default;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.ButtonDiv {
+    text-align: center;
+}
+
+.projects {
+    color: rgb(139, 170, 255);
+}
+
+.projectTitle {
+    color: #606b72;
+    text-align: center;
+}
+
+.projectButtons {
+    text-align: center;
+}
