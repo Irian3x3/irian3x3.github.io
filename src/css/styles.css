@@ -18,7 +18,7 @@ a {
     font-size: 16px;
     border-radius: 5px;
     width: 10%;
-    cursor: default;
+    cursor: pointer;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
