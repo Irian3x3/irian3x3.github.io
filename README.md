@@ -1,2 +1,1 @@
-# [irian3x3.xyz](https://irian3x3.xyz/src/index.html)
-### This is my useless website
+# GitHub is gay so you are gonna have to [go here](https://irian3x3.xyz/src/index.html)
