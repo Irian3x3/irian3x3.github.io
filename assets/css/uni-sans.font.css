@@ -1,0 +1,26 @@
+.uni-sans-heavy-italics {
+    font-family: UniSansHeavyItalics,Whitney,helvetica neue,Helvetica,Arial,sans-serif !important;
+}
+
+.uni-sans-heavy {
+    font-family: UniSansHeavy,Whitney,helvetica neue,Helvetica,Arial,sans-serif !important;
+}
+
+.uni-sans-italics {
+    font-family: UniSansThinItalics,Whitney,helvetica neue,Helvetica,Arial,sans-serif !important;
+}
+
+@font-face {
+    font-family: UniSansHeavyItalics;
+    src: url(/assets/fonts/uni-sans/uni-sans-heavy-italics.otf);
+}
+
+@font-face {
+    font-family: UniSansHeavy;
+    src: url(/assets/fonts/uni-sans/uni-sans-heavy.otf);
+}
+
+@font-face {
+    src: url(/assets/fonts/uni-sans/uni-sans-thin-italics.otf);
+    font-family: UniSansThinItalics;
+}

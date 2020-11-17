@@ -1,0 +1,16 @@
+.invertedWave {
+    -webkit-transform: matrix(1,0,0,-1,0,0);
+    transform: matrix(1,0,0,-1,0,0);
+}
+
+.wave-svg {
+    display: block;
+}
+.wavePath {
+    -webkit-animation: waveDividerAnimation-2m2aau 20s linear infinite alternate;
+    animation: waveDividerAnimation-2m2aau 20s linear infinite alternate;
+}
+
+.wave-thing {
+    color: #7bb3d8 !important;
+}
